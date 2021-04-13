@@ -178,6 +178,8 @@ h1,h2,h3{
     padding: 4rem;  
     align-items: center;
     justify-content: center;
+    display: grid;
+
 }
 
 .ubicacion{
